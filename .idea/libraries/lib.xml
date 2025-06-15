@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/w2053082_20232247_Java_JavaFx_GUI/lib/gson-2.11.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/w2053082_20232247_Java_JavaFx_GUI/lib/gson-2.11.0-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/w2053082_20232247_Java_JavaFx_GUI/lib/error_prone_annotations-2.27.0-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/w2053082_20232247_Java_JavaFx_GUI/lib/error_prone_annotations-2.27.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

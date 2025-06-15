@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/w2053082_20232247_Govindu Harshana_OOP CW.iml" filepath="$PROJECT_DIR$/.idea/w2053082_20232247_Govindu Harshana_OOP CW.iml" />
+      <module fileurl="file://$PROJECT_DIR$/w2053082_20232247_Java CLI/w2053082_20232247_Java CLI.iml" filepath="$PROJECT_DIR$/w2053082_20232247_Java CLI/w2053082_20232247_Java CLI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/w2053082_20232247_Java_JavaFx_GUI/w2053082_20232247_Java_JavaFx_GUI.iml" filepath="$PROJECT_DIR$/w2053082_20232247_Java_JavaFx_GUI/w2053082_20232247_Java_JavaFx_GUI.iml" />
+    </modules>
+  </component>
+</project>
